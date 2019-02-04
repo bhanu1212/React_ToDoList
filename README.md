@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## React_ToDoList _bhanu
+
+Basic ToDo list using React Js
+
+
+Install Bootstrap and Font-awesome 
+
+npm i bootstrap 
+
+npm i font-awesome
+
+
 ## Available Scripts
 
 In the project directory, you can run:
