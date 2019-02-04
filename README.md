@@ -11,6 +11,10 @@ npm i bootstrap
 
 npm i font-awesome
 
+Sample UI Screenshot
+
+![Screenshot](TODO_React.png)
+
 
 ## Available Scripts
 
